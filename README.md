@@ -25,49 +25,48 @@ We developed HTML (index.html) and Java scripts (/static/js/ and /static/css) to
 
 Finally, we have deployed our project to a GitHub page. 
 
-GitHub Page of Red Team's project is at https://hatkiet.github.io/Project_3_RedTeam/  
-
-<img width="1783" alt="Screenshot 2024-04-28 at 12 44 58 AM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/36f3893b-6e7b-470b-b844-d6492b7fec7f">
-
 # Visualizations: 
 (**focus on a specific year 2022**)
 
 [Fig.1: 3D plot of Percent of Obesity in each Age Group per State]
 
-<img width="979" alt="Screenshot 2024-04-28 at 1 10 37 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/b49c29f9-1a22-44cb-bc69-1b832ead26ab">
+<img width="979" alt="Screenshot 2024-04-28 at 1 10 37 PM" src="https://github.com/user-attachments/assets/9b8aa195-7af3-4109-9a48-da1000532b87">
 
-[Fig. 2: Percent of Obesity in each Age Group per State]
+[Fig. 2: Percent Obesity Within Each Age Group by State]
 
-<img width="595" alt="Screenshot 2024-04-28 at 1 08 03 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/ff5a4f6e-c022-48a9-97a7-e5da5feb6396">
+<img width="595" alt="Screenshot 2024-04-28 at 1 08 03 PM" src="https://github.com/user-attachments/assets/716a9e26-4f11-4755-a81d-f166f192d2d7">
 
-[Fig.3: National levels]
+[Fig.3: National Levels]
 
-The CDC 2022 Adult Obesity Maps for overall 50 states, the District of Columbia, and 3 US territories show the proportion of adults with a body mass index (BMI) equal to or greater than 30 ( ≥30 kg/m2) based on self-reported weight and height.
+The [CDC 2022 Adult Obesity Prevalence Maps](https://www.cdc.gov/obesity/php/data-research/adult-obesity-prevalence-maps.html) for 50 states, the District of Columbia, and 3 U.S. territories show the proportion of adults with a body mass index (BMI) equal to or greater than 30 ( ≥30 kg/m2) based on self-reported weight and height.
+
+![Screenshot 2024-08-28 at 6 37 01 PM](https://github.com/user-attachments/assets/d89c5485-b16a-47f7-baa3-3fe75c4f3b13)
+<B> Source:</B> [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/)
 
 A. By Age
 
-<img width="1018" alt="Screenshot 2024-04-28 at 1 12 48 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/77e460f4-5273-4d79-903e-95b6e07bcff2">
+![Screenshot 2024-08-28 at 6 17 27 PM](https://github.com/user-attachments/assets/eb527fd6-1952-46eb-866a-769d22484318)
 
 B. By Education
 
-<img width="1025" alt="Screenshot 2024-04-28 at 1 15 54 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/ca93bb56-de0d-4c48-981a-b0272cab70ed">
+![Screenshot 2024-08-28 at 6 21 22 PM](https://github.com/user-attachments/assets/b6e4b85f-f121-418d-8a97-3b81fdc71b34)
+
 
 C. By Income
 
-<img width="1020" alt="Screenshot 2024-04-28 at 1 16 14 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/85e386db-8565-425f-80ed-868812aa3275">
+![Screenshot 2024-08-28 at 6 22 45 PM](https://github.com/user-attachments/assets/30f83ed9-721e-4707-983e-79ec2f2d4f00)
 
 D. By Gender
 
-<img width="1028" alt="Screenshot 2024-04-28 at 1 16 05 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/8d14fe04-e19f-4049-9d46-2457aca9ee71">
+![Screenshot 2024-08-28 at 6 24 28 PM](https://github.com/user-attachments/assets/15a4b506-c950-4a5d-b74c-6b7817e435b4)
 
 E. By Race/Ethnicity
 
-<img width="1009" alt="Screenshot 2024-04-28 at 1 16 24 PM" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/7bd4b438-c880-479d-a9a2-2e27f751948a">
+![Screenshot 2024-08-28 at 6 25 57 PM](https://github.com/user-attachments/assets/66537780-1c93-4d88-ad09-4215e9bf6f23)
 
-F. By overall population per state
+F. By the overall total population per state
 
-<img width="1774" alt="q036_2022_overall" src="https://github.com/hatkiet/Project_3_RedTeam/assets/154276115/6caf7e4c-7314-4c6e-b83a-c627f428cfa3">
-
+![Screenshot 2024-08-28 at 6 31 05 PM](https://github.com/user-attachments/assets/6983ceed-fc9f-4611-9e28-d47a88ad012d)
 
 # A paragraph summarizing efforts for ethical considerations made in the project
 (_At least one paragraph summarizing efforts for ethical considerations made in the project_)
